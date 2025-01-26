@@ -5,3 +5,6 @@
 3. Load all three files in HDFS location
 4. Write spark job to solve below mentioned problem statements
 5. Make sure to store the output of each problem statement in single csv with header in output HDFS path
+
+# Architecture Diagram
+![Architecture Diagram for movie data analysis using sparksql.](https://github.com/TROISTROIS/SPARKSQL-MOVIE-DATA-ANALYSIS-/blob/main/sparksql%20movie.jpg)
